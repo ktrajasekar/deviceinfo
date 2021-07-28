@@ -3,7 +3,7 @@
 Weekend Project Device Info an experimenting app used to get device pixels and information
 
 ## CI & CD Linked to vercel 
-[deviceinfo.vercel.app](deviceinfo.vercel.app)
+[deviceinfo.vercel.app](http://deviceinfo.vercel.app)
 
 ## Project setup
 ```
